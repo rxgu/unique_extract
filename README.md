@@ -8,4 +8,6 @@ The script and function to extract unique values from a column from a .csv file 
 
 
 ## List of Dependencies
-
+ numpy
+ MDAnalysis
+ MDreader
